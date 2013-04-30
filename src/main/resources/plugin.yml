@@ -1,0 +1,4 @@
+name: Testgame
+main: org.efreak.testgame.TestPlugin
+version: ${version}
+author: e-freak
