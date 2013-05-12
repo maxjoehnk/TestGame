@@ -6,7 +6,7 @@ import org.efreak.games.game.GameInstance;
 public class TestGameInstance extends GameInstance {
 
 	public TestGameInstance(Game game, String id) {
-		super(game, id);
+		super(game, id, true);
 	}
 
 	@Override
